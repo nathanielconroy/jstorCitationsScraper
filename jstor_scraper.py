@@ -1,15 +1,15 @@
 # Open a text file containing a series of jstor search urls, separated by semicolons.
 # Then read the file and split it into a list of the urls.
-urls = raw_input("What is the path where the jstor URLs are stored?")
-datafile = raw_input("What is the path where the data will be stored?")
+urls = raw_input("What is the path where the jstor URLs are stored? --Probably a txt file-- ")
+datafile = raw_input("What is the path where the data will be stored? --Probably a csv file-- ")
 e = open(urls, 'r')
 urlList = e.read()
 urlList = urlList.split(";")
 
 # Ask the user what record to start at.
 startNumber = raw_input("What number would you like to start at? Starting at '0' will erase any previous results.")
-urlList = urlList[startNumber:]
-if startNumber == 0
+urlList = urlList[int(startNumber):]
+if startNumber == '0':
 	# Open a file where the results of the scrape will be kept and delete its contents if any.
 	f = open(datafile, 'w')
 	f.close()
