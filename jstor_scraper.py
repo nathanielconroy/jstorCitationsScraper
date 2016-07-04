@@ -1,7 +1,7 @@
 # Open a text file containing a series of jstor search urls, separated by semicolons.
 # Then read the file and split it into a list of the urls.
-urls = raw_input("What is the path where the jstor URLs are stored? --Probably a txt file-- ")
-datafile = raw_input("What is the path where the data will be stored? --Probably a csv file-- ")
+urls = raw_input("What is the path where the jstor URLs are stored?")
+datafile = raw_input("What is the path where the data will be stored?")
 e = open(urls, 'r')
 urlList = e.read()
 urlList = urlList.split(";")
@@ -19,8 +19,9 @@ import bs4
 
 # Cycle through all of the urls and scrape the total number of results for each search term.
 # The script will print the results one by one and also write them into the jstordataoutput.csv file.
-n = startNumber
+n = int(startNumber)
 for x in urlList:
+	n += 1
 	rawhtml = requests.get(x)
 	soup = bs4.BeautifulSoup(rawhtml.text)
 	if soup.find("html") is None:
