@@ -3,4 +3,4 @@ This is a very short python script for scraping the number of results from a ser
 
 In order for this script to work you will need the requests and bs4 python libraries.
 
-You will also need to place your search URLs into a file called 'jstorurls.txt'. I usually build this file using a php script, but you could just as easily do it with python. In a future version of this script, I may add a feature that allows you to build the URLs automatically from a list of search terms.
+This application is no longer functional as JSTOR has begun to block automated requests.
