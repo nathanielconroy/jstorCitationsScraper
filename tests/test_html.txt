@@ -1,0 +1,1427 @@
+
+<!DOCTYPE html><html class=" no-js" lang="en"><head><meta charset="UTF-8"/><!-- Start SEO custom tags --><meta name="robots" content="noarchive,noindex,nofollow,NOODP" /><meta name="MSSmartTagsPreventParsing" content="true" /><!-- End SEO custom tags --><script src="//assets.adobedtm.com/e0b918adcf7233db110ce33e1416a2e6448e08e6/satelliteLib-5c3c84854607a1fc3328b9b539472ebd81244f0b.js"></script><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0010/4927.js" async="async"></script><script>
+        window.jstorSearch = {
+            hostURL: location.protocol+'//'+location.hostname+(location.port ? ':'+location.port: ''),
+            didAcceptTC : false,
+            consortium_map: [],
+            searchItemParams : "?Search=yes&resultItemClick=true&searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"
+        };
+
+        
+            window.starData = {
+                'id' : 'search:6cdeedede5790d7019719bf3de22b8ad'
+            };
+        
+
+        window.requestId = "search:6cdeedede5790d7019719bf3de22b8ad";
+    </script><meta name="viewport" content="width=device-width" /><meta name="ST.PlatformAPIKey" content="83e2edc873d4" /><meta name="ST.datatype" content="DATABASE" /><meta name="ST.itemtype" content="SEARCH_REG" /><link rel="icon" sizes="192x192" type="image/png" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/android-chrome-192x192.png" /><link rel="icon" sizes="512x512" type="image/png" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/android-chrome-512x512.png" /><link rel="apple-touch-icon" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/apple-touch-icon.png" /><meta name="msapplication-TileImage" content="/assets/mstile-150x150.png" /><meta name="msapplication-TileColor" content="#DA532C" /><meta name="msapplication-config" content="/assets/browserconfig.xml" /><link rel="icon" sizes="16x16" type="image/png" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/favicon-16x16.png" /><link rel="icon" sizes="48x48" type="image/png" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/favicon-48x48.png" /><link rel="icon" sizes="32x32" type="image/png" href="//www.jstor.org/assets/global_20180214T1713/build/images/favicons/favicon-32x32.png" /><link rel="stylesheet" href="//www.jstor.org/assets/global_20180214T1713/build/global/css/global.css" /><script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous"></script><link rel="stylesheet" href="//www.jstor.org/assets/search_20180216T1648/build/search/css/search.css" /><title> JSTOR:  Search Results </title><script type="text/javascript" class="ddo">
+            var  DDO  = {};
+            DDO.pageData={
+                
+    "pageName" : "search results",
+    "pageChannel" : "search:search results",
+    "pageProduct" : "jstor",
+    "pagePlatform" : "seq"
+
+            };
+            DDO.userData = {
+                
+    "loginStatus" : "false",
+    "userAuthentication" : "Unauthenticated",
+    "userInstitution" : "",
+    "institutionID" : "",
+    "myJstorUserID" : ""
+
+            };
+            
+    DDO.searchData = {
+        "selectedContent" : "[]",
+        "selectedSubject" : "[]"
+    };
+
+        </script></head><body  onload="validateElementsPresent(); logPerimeterXLoadingErrors();" ><script>
+    var validateElementsPresent = function() {
+        var requiredElementSelectors = ['#px-js', '#px-pixel'];
+
+        requiredElementSelectors.forEach(function(selector){
+            if (!$(selector).length) {
+                storePerimeterXLoadingError(selector, 'element not present');
+            }
+        });
+    }, storePerimeterXLoadingError = function(element, errorType) {
+        if (window.perimeterXLoadingErrors) {
+            if (!window.perimeterXLoadingErrors.hasOwnProperty(element)) {
+                window.perimeterXLoadingErrors[element] = errorType;
+            }
+        } else {
+            window.perimeterXLoadingErrors = {};
+            window.perimeterXLoadingErrors[element] = errorType;
+        }
+    };
+</script><!-- PerimeterX --><script id="px-js" type="text/javascript">
+    (function(){
+        window._pxAppId = 'PXu4K0s8nX';
+        window._pxRootUrl = '/px/xhr';
+
+        
+        window._pxParam1 = "Unknown Users";
+        
+
+        
+
+        var p = document.getElementsByTagName('script')[0],
+            s = document.createElement('script');
+        s.async = 1;
+        s.src = '/px/client/main.min.js';
+        s.onerror = function() {
+            storePerimeterXLoadingError('asyncScript', 'element present but not loaded');
+        };
+        p.parentNode.insertBefore(s,p);
+    }());
+</script><div style="position:fixed; top:0; left:0;" width="1" height="1"><img id="px-pixel" aria-hidden="true" src="/px/xhr/api/v1/collector/pxPixel.gif?appId=PXu4K0s8nX" onerror="storePerimeterXLoadingError('pixel', 'element present but not loaded')" alt=""></div><noscript><div style="position:fixed; top:0; left:0;" width="1" height="1"><img id="px-pixel-nojs" aria-hidden="true" src="/px/xhr/api/v1/collector/noScript.gif?appId=PXu4K0s8nX" alt=""></div></noscript><!-- End PerimeterX --><div id="skipNav"><a class="visuallyhidden" href="#content">Skip to Main Content</a></div><div id="provider-designation-statement" class="mvs txtc" data-qa="pds"><em>Have library access?</em><a href="/institutionSearch?redirectUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone">
+        Login Through Your Library
+    </a></div><nav role="navigation"><div class="top-bar ptxs"><div class="top-bar-title"><a href="/" id="menu-jstor-logo"><img src="//www.jstor.org/assets/global_20180214T1713/build/images/jstor-logo.png" srcset="//www.jstor.org/assets/global_20180214T1713/build/images/jstor-logo.png 1x, //www.jstor.org/assets/global_20180214T1713/build/images/jstor-logo@2x.png 2x" class="non-responsive" alt="JSTOR Home" width="65" height="90"></a></div><div class="nav-main"><div class="top-bar-row show-for-xlarge-up pbm"><div class="user-account"><a href="/action/showLogin?redirectUri=/action/doBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone" class="inline-block mtl">Login to My Account</a><i class="nav-separator"></i><a href="/register?redirectUri=/action/doBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone">Register</a></div></div><div class="top-bar-row"><div class="flex-box-main search-container"><div class="subcontent-search-box"><form
+    role="form"
+    class="basic-search-form input-search-secondary"
+    action="/action/doBasicSearch"
+    method="GET"
+><div class="input-group "><input
+            id="q0"
+            name="Query"
+            type="text"
+            class="searchBox input-group-field mbs small"
+            placeholder="Search JSTOR"
+            
+            
+        /><label for="q0" class="visuallyhidden">Search JSTOR</label><div class="input-group-button"><button type="submit" title="search button" class="button secondary" data-sc="button:global search"><i class="icon-search" aria-label="Submit search"></i></button></div></div></form></div></div><div class="flex-box-main"><ul class="dropdown menu" data-dropdown-menu><li class="is-dropdown-submenu-parent show-for-medium-up"><a href="/action/showAdvancedSearch" id="menu-search" data-qa="hdr-adv-search-top">Advanced Search</a><ul class="menu vertical"><li><a href="/action/showAdvancedSearch" data-qa="hdr-adv-search">Advanced Search</a></li><li><a href="/analyze" data-qa="hdr-text-analyzer">Text Analyzer</a></li></ul></li><li class="is-dropdown-submenu-parent flex"><a href="/subjects" id="menu-browse" data-qa="hdr-brs">Browse</a><ul class="menu vertical"><li><a href="/subjects" data-qa="hdr-brs-by-subj">by Subject</a></li><li><a href="/action/showJournals?browseType=title" data-qa="hdr-brs-by-title">by Title</a></li><li><a href="/publishers" data-qa="hdr-brs-by-pub">by Publisher</a></li></ul></li></ul></div><div class="top-bar-right show-for-xlarge-up"><a href="//about.jstor.org" target="_blank" title="This link opens in a new window" class="bold" data-qa="hdr-about">About</a><a href="//support.jstor.org" target="_blank" title="This link opens in a new window" class="bold mlm" data-qa="hdr-support">Support</a></div><div class="flex01a hide-for-xlarge-up"><a href="/action/showLogin?redirectUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone" class="bold">Login</a><i class="nav-separator"></i><a class="bold" href="/register?redirectUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone">Register</a></div></div></div></div></nav><div id="content" role="main" class="content row" data-equalizer><div class="small-12 columns"><div id="search-results-module"><h1 data-result-count="2813">2,813 Search Results</h1><noscript><div class="notify-error mbl">You do not have JavaScript enabled. Please enable JavaScript to use all features on this page.</div></noscript><div id="search-container" data-modified-query="&quot;Toni Morrison&quot; AND &quot;Beloved&quot;"><div class="row mtl"><div class="small-12 large-3 columns"><input id="toggle-facets" type="button" class="button hide-for-large-up expanded" value="Hide Search Filters" /><div id="facet-filters"><h2>Refine Results</h2><div id="search-within-results" class="search-facet"><h3 class="mbs">Search Within Results:</h3><form role="search" action="/action/doBasicSearch" method="get" class="form-searchResults-searchControls pvs" autocomplete="off"><div id="search-within"><div class="input-group"><input
+                            id="searchBox"
+                            name="Query"
+                            type="text"
+                            class="searchBox input-group-field"
+                            placeholder="Search within results"
+                            data-qa="search-within"
+                        ><label for="searchBox" class="visuallyhidden">Search Within Results</label><input type="hidden" name="prq" value="&quot;Toni Morrison&quot; AND &quot;Beloved&quot;"><input type="hidden" name="swp" value="on" id="searchWithin" class="sc-searchWithin" /><input type="hidden" name="so" value="rel"><input type="hidden" name="wc" value="on"><input type="hidden" name="fc" value="off"><input type="hidden" name="hp" value="25"><input type="hidden" name="acc" value="off"><div class="input-group-button"><button type="submit" title="search button" class="button" data-sc="but click:search within results" data-qa="search-within-button"><i class="icon-search" aria-label="Submit search"></i></button></div></div></div></form></div><input type='hidden' name='csrfmiddlewaretoken' value='WMYWyYV3iivA6mWUKYNvKYB5NcRWqsvc' /><form class="form-jstor no-js-hide" action="" data-facet-submit-delay="1000" method="get" autocomplete="off"><input type="hidden" name="searchType" value="facetSearch"/><input type="hidden" name="page" value="1"/><button id="update-search-results" class="button secondary facet-submit-button disabled " type="submit" data-sc="but click:update results" disabled>Update Results</button><fieldset id="cty" class="search-facet"><legend><h3 class="mbn">Content Type:</h3></legend><ul class="no-bullet facet-item-list"><li><input
+                                            id="cty_journal"
+                                            name="facet_journal"
+                                            value="am91cm5hbA=="
+                                            aria-label="Filter on Journals, which has 2126 results"
+                                            type="checkbox"  data-sc="check box:content type journal"
+                                        ><label for="cty_journal"><span class="normal mls">Journals (2,126)</span></label></li><li><input
+                                            id="cty_chapter"
+                                            name="facet_chapter"
+                                            value="Y2hhcHRlcg=="
+                                            aria-label="Filter on Books, which has 687 results"
+                                            type="checkbox"  data-sc="check box:content type chapter"
+                                        ><label for="cty_chapter"><span class="normal mls">Books (687)</span></label></li></ul></fieldset><hr /><fieldset id="publication_date" class="search-facet"><legend><h3 class="mbn">Publication Date:</h3></legend><div class="row"><div class="small-6 columns prs"><label for="startDate">From</label><input
+                                        id="startDate"
+                                        class="mbs"
+                                        name="sd"
+                                        aria-label="Include results published after date (must be in yyyy, yyyy/mm, or yyyy/mm/dd format)"
+                                        type="text"
+                                        value=""
+                                    ></div><div class="small-6 columns pls"><label for="endDate">To</label><input
+                                        id="endDate"
+                                        class="mbs"
+                                        name="ed"
+                                        title="Include results published before date (must be in yyyy, yyyy/mm, or yyyy/mm/dd format)"
+                                        type="text"
+                                        value=""
+                                    ></div><span class="small-12 columns">(yyyy or yyyy/mm or yyyy/mm/dd)</span></div></fieldset><hr /><fieldset id="disc" class="search-facet"><legend><h3 class="mbn">Subject:</h3></legend><ul class="no-bullet facet-item-list"><li><input
+                                            id="disc_africanamericanstudies-discipline"
+                                            name="facet_africanamericanstudies-discipline"
+                                            value="YWZyaWNhbmFtZXJpY2Fuc3R1ZGllcy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on African American Studies, which has 399 results"
+                                            type="checkbox"  data-sc="check box:subject africanamericanstudies-discipline"
+                                        ><label for="disc_africanamericanstudies-discipline"><span class="normal mls">African American Studies (399)</span></label></li><li><input
+                                            id="disc_africanstudies-discipline"
+                                            name="facet_africanstudies-discipline"
+                                            value="YWZyaWNhbnN0dWRpZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on African Studies, which has 54 results"
+                                            type="checkbox"  data-sc="check box:subject africanstudies-discipline"
+                                        ><label for="disc_africanstudies-discipline"><span class="normal mls">African Studies (54)</span></label></li><li><input
+                                            id="disc_americanindianstudies-discipline"
+                                            name="facet_americanindianstudies-discipline"
+                                            value="YW1lcmljYW5pbmRpYW5zdHVkaWVzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on American Indian Studies, which has 9 results"
+                                            type="checkbox"  data-sc="check box:subject americanindianstudies-discipline"
+                                        ><label for="disc_americanindianstudies-discipline"><span class="normal mls">American Indian Studies (9)</span></label></li><li><input
+                                            id="disc_americanstudies-discipline"
+                                            name="facet_americanstudies-discipline"
+                                            value="YW1lcmljYW5zdHVkaWVzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on American Studies, which has 473 results"
+                                            type="checkbox"  data-sc="check box:subject americanstudies-discipline"
+                                        ><label for="disc_americanstudies-discipline"><span class="normal mls">American Studies (473)</span></label></li><li><input
+                                            id="disc_anthropology-discipline"
+                                            name="facet_anthropology-discipline"
+                                            value="YW50aHJvcG9sb2d5LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Anthropology, which has 61 results"
+                                            type="checkbox"  data-sc="check box:subject anthropology-discipline"
+                                        ><label for="disc_anthropology-discipline"><span class="normal mls">Anthropology (61)</span></label></li><li><input
+                                            id="disc_archeology-discipline"
+                                            name="facet_archeology-discipline"
+                                            value="YXJjaGVvbG9neS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Archaeology, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject archeology-discipline"
+                                        ><label for="disc_archeology-discipline"><span class="normal mls">Archaeology (1)</span></label></li><li><input
+                                            id="disc_architecture-discipline"
+                                            name="facet_architecture-discipline"
+                                            value="YXJjaGl0ZWN0dXJlLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Architecture &amp; Architectural History, which has 6 results"
+                                            type="checkbox"  data-sc="check box:subject architecture-discipline"
+                                        ><label for="disc_architecture-discipline"><span class="normal mls">Architecture &amp; Architectural History (6)</span></label></li><li><input
+                                            id="disc_arthistory-discipline"
+                                            name="facet_arthistory-discipline"
+                                            value="YXJ0aGlzdG9yeS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Art &amp; Art History, which has 25 results"
+                                            type="checkbox"  data-sc="check box:subject arthistory-discipline"
+                                        ><label for="disc_arthistory-discipline"><span class="normal mls">Art &amp; Art History (25)</span></label></li><li><input
+                                            id="disc_asianstudies-discipline"
+                                            name="facet_asianstudies-discipline"
+                                            value="YXNpYW5zdHVkaWVzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Asian Studies, which has 8 results"
+                                            type="checkbox"  data-sc="check box:subject asianstudies-discipline"
+                                        ><label for="disc_asianstudies-discipline"><span class="normal mls">Asian Studies (8)</span></label></li><li><input
+                                            id="disc_astronomy-discipline"
+                                            name="facet_astronomy-discipline"
+                                            value="YXN0cm9ub215LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Astronomy, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject astronomy-discipline"
+                                        ><label for="disc_astronomy-discipline"><span class="normal mls">Astronomy (1)</span></label></li><li><input
+                                            id="disc_bibliog-discipline"
+                                            name="facet_bibliog-discipline"
+                                            value="YmlibGlvZy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Bibliography, which has 47 results"
+                                            type="checkbox"  data-sc="check box:subject bibliog-discipline"
+                                        ><label for="disc_bibliog-discipline"><span class="normal mls">Bibliography (47)</span></label></li><li><input
+                                            id="disc_britstud-discipline"
+                                            name="facet_britstud-discipline"
+                                            value="YnJpdHN0dWQtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on British Studies, which has 12 results"
+                                            type="checkbox"  data-sc="check box:subject britstud-discipline"
+                                        ><label for="disc_britstud-discipline"><span class="normal mls">British Studies (12)</span></label></li><li><input
+                                            id="disc_business-discipline"
+                                            name="facet_business-discipline"
+                                            value="YnVzaW5lc3MtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Business, which has 7 results"
+                                            type="checkbox"  data-sc="check box:subject business-discipline"
+                                        ><label for="disc_business-discipline"><span class="normal mls">Business (7)</span></label></li><li><input
+                                            id="disc_classicalstudies-discipline"
+                                            name="facet_classicalstudies-discipline"
+                                            value="Y2xhc3NpY2Fsc3R1ZGllcy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Classical Studies, which has 5 results"
+                                            type="checkbox"  data-sc="check box:subject classicalstudies-discipline"
+                                        ><label for="disc_classicalstudies-discipline"><span class="normal mls">Classical Studies (5)</span></label></li><li><input
+                                            id="disc_communicationstudies-discipline"
+                                            name="facet_communicationstudies-discipline"
+                                            value="Y29tbXVuaWNhdGlvbnN0dWRpZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Communication Studies, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject communicationstudies-discipline"
+                                        ><label for="disc_communicationstudies-discipline"><span class="normal mls">Communication Studies (1)</span></label></li><li><input
+                                            id="disc_economics-discipline"
+                                            name="facet_economics-discipline"
+                                            value="ZWNvbm9taWNzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Economics, which has 8 results"
+                                            type="checkbox"  data-sc="check box:subject economics-discipline"
+                                        ><label for="disc_economics-discipline"><span class="normal mls">Economics (8)</span></label></li><li><input
+                                            id="disc_education-discipline"
+                                            name="facet_education-discipline"
+                                            value="ZWR1Y2F0aW9uLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Education, which has 182 results"
+                                            type="checkbox"  data-sc="check box:subject education-discipline"
+                                        ><label for="disc_education-discipline"><span class="normal mls">Education (182)</span></label></li><li><input
+                                            id="disc_environmentalscience-discipline"
+                                            name="facet_environmentalscience-discipline"
+                                            value="ZW52aXJvbm1lbnRhbHNjaWVuY2UtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Environmental Science, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject environmentalscience-discipline"
+                                        ><label for="disc_environmentalscience-discipline"><span class="normal mls">Environmental Science (1)</span></label></li><li><input
+                                            id="disc_enviro-discipline"
+                                            name="facet_enviro-discipline"
+                                            value="ZW52aXJvLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Environmental Studies, which has 3 results"
+                                            type="checkbox"  data-sc="check box:subject enviro-discipline"
+                                        ><label for="disc_enviro-discipline"><span class="normal mls">Environmental Studies (3)</span></label></li><li><input
+                                            id="disc_womensstudies-discipline"
+                                            name="facet_womensstudies-discipline"
+                                            value="d29tZW5zc3R1ZGllcy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Feminist &amp; Women&#39;s Studies, which has 177 results"
+                                            type="checkbox"  data-sc="check box:subject womensstudies-discipline"
+                                        ><label for="disc_womensstudies-discipline"><span class="normal mls">Feminist &amp; Women&#39;s Studies (177)</span></label></li><li><input
+                                            id="disc_film-discipline"
+                                            name="facet_film-discipline"
+                                            value="ZmlsbS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Film Studies, which has 40 results"
+                                            type="checkbox"  data-sc="check box:subject film-discipline"
+                                        ><label for="disc_film-discipline"><span class="normal mls">Film Studies (40)</span></label></li><li><input
+                                            id="disc_folklore-discipline"
+                                            name="facet_folklore-discipline"
+                                            value="Zm9sa2xvcmUtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Folklore, which has 3 results"
+                                            type="checkbox"  data-sc="check box:subject folklore-discipline"
+                                        ><label for="disc_folklore-discipline"><span class="normal mls">Folklore (3)</span></label></li><li><input
+                                            id="disc_generalscience-discipline"
+                                            name="facet_generalscience-discipline"
+                                            value="Z2VuZXJhbHNjaWVuY2UtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on General Science, which has 4 results"
+                                            type="checkbox"  data-sc="check box:subject generalscience-discipline"
+                                        ><label for="disc_generalscience-discipline"><span class="normal mls">General Science (4)</span></label></li><li><input
+                                            id="disc_geography-discipline"
+                                            name="facet_geography-discipline"
+                                            value="Z2VvZ3JhcGh5LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Geography, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject geography-discipline"
+                                        ><label for="disc_geography-discipline"><span class="normal mls">Geography (1)</span></label></li><li><input
+                                            id="disc_health-discipline"
+                                            name="facet_health-discipline"
+                                            value="aGVhbHRoLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Health Policy, which has 2 results"
+                                            type="checkbox"  data-sc="check box:subject health-discipline"
+                                        ><label for="disc_health-discipline"><span class="normal mls">Health Policy (2)</span></label></li><li><input
+                                            id="disc_healthsciences-discipline"
+                                            name="facet_healthsciences-discipline"
+                                            value="aGVhbHRoc2NpZW5jZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Health Sciences, which has 2 results"
+                                            type="checkbox"  data-sc="check box:subject healthsciences-discipline"
+                                        ><label for="disc_healthsciences-discipline"><span class="normal mls">Health Sciences (2)</span></label></li><li><input
+                                            id="disc_history-discipline"
+                                            name="facet_history-discipline"
+                                            value="aGlzdG9yeS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on History, which has 364 results"
+                                            type="checkbox"  data-sc="check box:subject history-discipline"
+                                        ><label for="disc_history-discipline"><span class="normal mls">History (364)</span></label></li><li><input
+                                            id="disc_interrela-discipline"
+                                            name="facet_interrela-discipline"
+                                            value="aW50ZXJyZWxhLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on International Relations, which has 9 results"
+                                            type="checkbox"  data-sc="check box:subject interrela-discipline"
+                                        ><label for="disc_interrela-discipline"><span class="normal mls">International Relations (9)</span></label></li><li><input
+                                            id="disc_irishstudies-discipline"
+                                            name="facet_irishstudies-discipline"
+                                            value="aXJpc2hzdHVkaWVzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Irish Studies, which has 8 results"
+                                            type="checkbox"  data-sc="check box:subject irishstudies-discipline"
+                                        ><label for="disc_irishstudies-discipline"><span class="normal mls">Irish Studies (8)</span></label></li><li><input
+                                            id="disc_jewishstudies-discipline"
+                                            name="facet_jewishstudies-discipline"
+                                            value="amV3aXNoc3R1ZGllcy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Jewish Studies, which has 10 results"
+                                            type="checkbox"  data-sc="check box:subject jewishstudies-discipline"
+                                        ><label for="disc_jewishstudies-discipline"><span class="normal mls">Jewish Studies (10)</span></label></li><li><input
+                                            id="disc_laboremploymentrelations-discipline"
+                                            name="facet_laboremploymentrelations-discipline"
+                                            value="bGFib3JlbXBsb3ltZW50cmVsYXRpb25zLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Labor &amp; Employment Relations, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject laboremploymentrelations-discipline"
+                                        ><label for="disc_laboremploymentrelations-discipline"><span class="normal mls">Labor &amp; Employment Relations (1)</span></label></li><li><input
+                                            id="disc_literature-discipline"
+                                            name="facet_literature-discipline"
+                                            value="bGl0ZXJhdHVyZS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Language &amp; Literature, which has 1924 results"
+                                            type="checkbox"  data-sc="check box:subject literature-discipline"
+                                        ><label for="disc_literature-discipline"><span class="normal mls">Language &amp; Literature (1,924)</span></label></li><li><input
+                                            id="disc_latinamericanstudies-discipline"
+                                            name="facet_latinamericanstudies-discipline"
+                                            value="bGF0aW5hbWVyaWNhbnN0dWRpZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Latin American Studies, which has 15 results"
+                                            type="checkbox"  data-sc="check box:subject latinamericanstudies-discipline"
+                                        ><label for="disc_latinamericanstudies-discipline"><span class="normal mls">Latin American Studies (15)</span></label></li><li><input
+                                            id="disc_law-discipline"
+                                            name="facet_law-discipline"
+                                            value="bGF3LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Law, which has 40 results"
+                                            type="checkbox"  data-sc="check box:subject law-discipline"
+                                        ><label for="disc_law-discipline"><span class="normal mls">Law (40)</span></label></li><li><input
+                                            id="disc_libraryscience-discipline"
+                                            name="facet_libraryscience-discipline"
+                                            value="bGlicmFyeXNjaWVuY2UtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Library Science, which has 12 results"
+                                            type="checkbox"  data-sc="check box:subject libraryscience-discipline"
+                                        ><label for="disc_libraryscience-discipline"><span class="normal mls">Library Science (12)</span></label></li><li><input
+                                            id="disc_linguistics-discipline"
+                                            name="facet_linguistics-discipline"
+                                            value="bGluZ3Vpc3RpY3MtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Linguistics, which has 6 results"
+                                            type="checkbox"  data-sc="check box:subject linguistics-discipline"
+                                        ><label for="disc_linguistics-discipline"><span class="normal mls">Linguistics (6)</span></label></li><li><input
+                                            id="disc_middleeaststudies-discipline"
+                                            name="facet_middleeaststudies-discipline"
+                                            value="bWlkZGxlZWFzdHN0dWRpZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Middle East Studies, which has 4 results"
+                                            type="checkbox"  data-sc="check box:subject middleeaststudies-discipline"
+                                        ><label for="disc_middleeaststudies-discipline"><span class="normal mls">Middle East Studies (4)</span></label></li><li><input
+                                            id="disc_music-discipline"
+                                            name="facet_music-discipline"
+                                            value="bXVzaWMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Music, which has 23 results"
+                                            type="checkbox"  data-sc="check box:subject music-discipline"
+                                        ><label for="disc_music-discipline"><span class="normal mls">Music (23)</span></label></li><li><input
+                                            id="disc_peaceconflictstudies-discipline"
+                                            name="facet_peaceconflictstudies-discipline"
+                                            value="cGVhY2Vjb25mbGljdHN0dWRpZXMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Peace &amp; Conflict Studies, which has 2 results"
+                                            type="checkbox"  data-sc="check box:subject peaceconflictstudies-discipline"
+                                        ><label for="disc_peaceconflictstudies-discipline"><span class="normal mls">Peace &amp; Conflict Studies (2)</span></label></li><li><input
+                                            id="disc_performingarts-discipline"
+                                            name="facet_performingarts-discipline"
+                                            value="cGVyZm9ybWluZ2FydHMtZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Performing Arts, which has 20 results"
+                                            type="checkbox"  data-sc="check box:subject performingarts-discipline"
+                                        ><label for="disc_performingarts-discipline"><span class="normal mls">Performing Arts (20)</span></label></li><li><input
+                                            id="disc_philosophy-discipline"
+                                            name="facet_philosophy-discipline"
+                                            value="cGhpbG9zb3BoeS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Philosophy, which has 66 results"
+                                            type="checkbox"  data-sc="check box:subject philosophy-discipline"
+                                        ><label for="disc_philosophy-discipline"><span class="normal mls">Philosophy (66)</span></label></li><li><input
+                                            id="disc_politicalscience-discipline"
+                                            name="facet_politicalscience-discipline"
+                                            value="cG9saXRpY2Fsc2NpZW5jZS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Political Science, which has 95 results"
+                                            type="checkbox"  data-sc="check box:subject politicalscience-discipline"
+                                        ><label for="disc_politicalscience-discipline"><span class="normal mls">Political Science (95)</span></label></li><li><input
+                                            id="disc_psychology-discipline"
+                                            name="facet_psychology-discipline"
+                                            value="cHN5Y2hvbG9neS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Psychology, which has 13 results"
+                                            type="checkbox"  data-sc="check box:subject psychology-discipline"
+                                        ><label for="disc_psychology-discipline"><span class="normal mls">Psychology (13)</span></label></li><li><input
+                                            id="disc_publichealth-discipline"
+                                            name="facet_publichealth-discipline"
+                                            value="cHVibGljaGVhbHRoLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Public Health, which has 11 results"
+                                            type="checkbox"  data-sc="check box:subject publichealth-discipline"
+                                        ><label for="disc_publichealth-discipline"><span class="normal mls">Public Health (11)</span></label></li><li><input
+                                            id="disc_publicpolicy-discipline"
+                                            name="facet_publicpolicy-discipline"
+                                            value="cHVibGljcG9saWN5LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Public Policy &amp; Administration, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject publicpolicy-discipline"
+                                        ><label for="disc_publicpolicy-discipline"><span class="normal mls">Public Policy &amp; Administration (1)</span></label></li><li><input
+                                            id="disc_religion-discipline"
+                                            name="facet_religion-discipline"
+                                            value="cmVsaWdpb24tZGlzY2lwbGluZQ=="
+                                            aria-label="Filter on Religion, which has 98 results"
+                                            type="checkbox"  data-sc="check box:subject religion-discipline"
+                                        ><label for="disc_religion-discipline"><span class="normal mls">Religion (98)</span></label></li><li><input
+                                            id="disc_slavicstudies-discipline"
+                                            name="facet_slavicstudies-discipline"
+                                            value="c2xhdmljc3R1ZGllcy1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Slavic Studies, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject slavicstudies-discipline"
+                                        ><label for="disc_slavicstudies-discipline"><span class="normal mls">Slavic Studies (1)</span></label></li><li><input
+                                            id="disc_socialwork-discipline"
+                                            name="facet_socialwork-discipline"
+                                            value="c29jaWFsd29yay1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Social Work, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject socialwork-discipline"
+                                        ><label for="disc_socialwork-discipline"><span class="normal mls">Social Work (1)</span></label></li><li><input
+                                            id="disc_sociology-discipline"
+                                            name="facet_sociology-discipline"
+                                            value="c29jaW9sb2d5LWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Sociology, which has 317 results"
+                                            type="checkbox"  data-sc="check box:subject sociology-discipline"
+                                        ><label for="disc_sociology-discipline"><span class="normal mls">Sociology (317)</span></label></li><li><input
+                                            id="disc_technology-discipline"
+                                            name="facet_technology-discipline"
+                                            value="dGVjaG5vbG9neS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Technology, which has 2 results"
+                                            type="checkbox"  data-sc="check box:subject technology-discipline"
+                                        ><label for="disc_technology-discipline"><span class="normal mls">Technology (2)</span></label></li><li><input
+                                            id="disc_urbanstudies-discipline"
+                                            name="facet_urbanstudies-discipline"
+                                            value="dXJiYW5zdHVkaWVzLWRpc2NpcGxpbmU="
+                                            aria-label="Filter on Urban Studies, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject urbanstudies-discipline"
+                                        ><label for="disc_urbanstudies-discipline"><span class="normal mls">Urban Studies (1)</span></label></li><li><input
+                                            id="disc_zoology-discipline"
+                                            name="facet_zoology-discipline"
+                                            value="em9vbG9neS1kaXNjaXBsaW5l"
+                                            aria-label="Filter on Zoology, which has 1 results"
+                                            type="checkbox"  data-sc="check box:subject zoology-discipline"
+                                        ><label for="disc_zoology-discipline"><span class="normal mls">Zoology (1)</span></label></li></ul></fieldset><input type="hidden" name="Query" value="&quot;Toni Morrison&quot; AND &quot;Beloved&quot;"><input type="hidden" name="wc" value="on"><input type="hidden" name="fc" value="off"><input type="hidden" name="group" value="none"><input type="hidden" name="acc" value="off"></form><hr /><div id="access" class="search-facet"><h3 class="mbn">Access Type:</h3><ul id="type" class="no-bullet mtm"><li class="active mts">All Content</li><li class="mts"><a href="/action/doBasicResults?acc=on&amp;wc=on&amp;group=none&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;fc=off">
+                                Read and download
+                            </a></li><li class="mts"><a href="/action/doBasicResults?acc=rr&amp;wc=on&amp;group=none&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;fc=off">Read online only</a></li></ul></div></div></div><div class="small-12 large-9 columns"><div class="row"><div class="small-12 medium-7 columns"><h2 data-result-count="2813"><span class="normal">Showing</span> 1-25 <span class="normal">of</span>
+                                    2,813
+                                </h2></div><div class="small-12 medium-5 columns hide-for-small align-right align-top"><ul class="inline-list mvs right"><li><a class="sc-modifySearch" href="/action/showBasicSearch?wc=on&amp;fc=off&amp;group=none&amp;acc=off&amp;sbq=%22Toni+Morrison%22+AND+%22Beloved%22&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;ModifySearch=ModifySearch">Modify&nbsp;Search</a></li><li><a href="https://support.jstor.org/hc/en-us/articles/115004701828-Searching-A-Practical-Overview" target="_blank" title="This link opens in a new window" class="sc-searchHelp">Search Help</a></li></ul></div><div class="small-12 columns applied-filters"></div></div><div class="row mln search-filters sticky" data-sticky data-options="threshold:0;" id="sticky-search-filter" data-top-anchor="sticky-search-filter" data-margin-top="0"><div class="small-12 large-8 columns"><div class="row button-group"><div class="small-6 columns button-container"><ul id="sort-by-drop" class="dropdown menu dropdown-button mbn" data-click-open="true" data-disable-hover="true" data-dropdown-menu><li><button class="button dropdown secondary sort txtl pvxs mvs">
+            Sort by:
+            
+                Relevance
+            
+        </button><ul class="menu vertical"><li class="active"><a href="/action/doBasicResults?si=1&amp;so=rel&amp;wc=on&amp;group=none&amp;acc=off&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;fc=off">
+                    Relevance
+                </a></li><li><a href="/action/doBasicResults?si=1&amp;so=new&amp;wc=on&amp;group=none&amp;acc=off&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;fc=off">
+                    Newest
+                </a></li><li><a href="/action/doBasicResults?si=1&amp;so=old&amp;wc=on&amp;group=none&amp;acc=off&amp;Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;fc=off">
+                    Oldest
+                </a></li></ul></li></ul></div><div class="small-6 columns button-container toggle-snippets hide mvs"><div class="pll"><input type="checkbox" id="toggle-snippets-checkbox" class="mbn" data-sc="checkbox:show snippets" /><label for="toggle-snippets-checkbox" class="primary-color man pvxs">Show snippets</label></div></div></div></div><div class="small-12 large-4 columns stand-alone"><div class="button-group"><div class="button-container"><ul id="export-bulk-drop" class="dropdown menu dropdown-button mbn citation" data-click-open="true" data-disable-hover="true" data-dropdown-menu><li><button disabled class="button dropdown citation"><span class="button-label nowrap">Export Selected</span><br /><span class="button-text">Citations</span></button><ul class="menu vertical"><li><a href="#" target="_blank" class="refworks_bulk_export export_citations" data-sc="text link:bulk citation refworks">Export to RefWorks</a></li><li><a href="#" target="_blank" class="easybib_bulk_export export_citations" data-sc="text link:bulk citation easybib">Export to EasyBib</a></li><li><a href="#" class="ris_bulk_export export_citations" data-sc="text link:bulk citation ris">
+                                    Export a RIS file
+                                    <br /><span class="black-color">(For EndNote, ProCite, Reference Manager, RefWorks, Zotero...)</span></a></li><li><a href="#" class="bibtex_bulk_export export_citations" data-sc="text link:bulk citation text">
+                                    Export a Text file
+                                    <br /><span class="black-color">(For BibTex)</span></a></li></ul></li></ul></div></div></div></div><div class="main-results"><form id="bulk_citation_export_form" action="/citation/bulk" method="post" class="form-jstor clearfix mbn"></form><form name="searchFormTools" id="searchFormTools" action="/action/doBasicResults" method="GET"><ol class="list-searchResults mln"><li class="row result-item"><!-- results markup common to all result items --><!-- id:c3ab1ebb-e6e9-3a90-b344-d04c0473266d doi:10.2307/j.ctt7zwf30.19 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip1" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.19" id="checkbox1" class="citationItem mts export_citations single_citation_option" /><label for="checkbox1" class="inline-block mrn"><span class="visuallyhidden">
+            
+                PROPERTY AND AMERICAN IDENTITY IN TONI MORRISON’S BELOVED
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="1" data-id="c3ab1ebb-e6e9-3a90-b344-d04c0473266d" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.19?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            PROPERTY AND AMERICAN IDENTITY IN TONI MORRISON’S BELOVED<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 159-171) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22LOVALERIE+KING%22&wc=on&group=none&acc=off&fc=off">LOVALERIE KING</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="c3ab1ebb-e6e9-3a90-b344-d04c0473266d">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/larceny/">Larceny</a>,
+                        
+                        <a href="/topic/property-rights/">Property rights</a>,
+                        
+                        <a href="/topic/children/">Children</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/desire/">Desire</a>,
+                        
+                        <a href="/topic/slave-ownership/">Slave ownership</a>,
+                        
+                        <a href="/topic/property-titles/">Property titles</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.19%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ac3ab1ebb-e6e9-3a90-b344-d04c0473266d%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.19" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.19" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:97996eeb-e9e4-3df6-bad0-ff7a1fe3127e doi:10.2307/j.ctt7zwf30.8 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip2" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.8" id="checkbox2" class="citationItem mts export_citations single_citation_option" /><label for="checkbox2" class="inline-block mrn"><span class="visuallyhidden">
+            
+                MODERNITY AND THE HOMELESS: Toni Morrison and the Fictions of Modernism 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="2" data-id="97996eeb-e9e4-3df6-bad0-ff7a1fe3127e" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.8?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            MODERNITY AND THE HOMELESS: Toni Morrison and the Fictions of Modernism<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 19-32) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22MARC+C.+CONNER%22&wc=on&group=none&acc=off&fc=off">MARC C. CONNER</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="97996eeb-e9e4-3df6-bad0-ff7a1fe3127e">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/modernist-art/">Modernist art</a>,
+                        
+                        <a href="/topic/storytelling/">Storytelling</a>,
+                        
+                        <a href="/topic/modern-literature/">Modern literature</a>,
+                        
+                        <a href="/topic/narrative-modes/">Narrative modes</a>,
+                        
+                        <a href="/topic/jazz/">Jazz</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/homelessness/">Homelessness</a>,
+                        
+                        <a href="/topic/enlightenment/">Enlightenment</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.8%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A97996eeb-e9e4-3df6-bad0-ff7a1fe3127e%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.8" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.8" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:c605690c-4cee-38b6-97a9-398ffeb18ee6 doi:10.2307/j.ctt7zwf30.20 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip3" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.20" id="checkbox3" class="citationItem mts export_citations single_citation_option" /><label for="checkbox3" class="inline-block mrn"><span class="visuallyhidden">
+            
+                AESCHYLUS, EURIPIDES, AND TONI MORRISON: Miasma, Revenge, and Atonement 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="3" data-id="c605690c-4cee-38b6-97a9-398ffeb18ee6" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.20?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            AESCHYLUS, EURIPIDES, AND TONI MORRISON: Miasma, Revenge, and Atonement<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 172-184) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22TESSA+ROYNON%22&wc=on&group=none&acc=off&fc=off">TESSA ROYNON</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="c605690c-4cee-38b6-97a9-398ffeb18ee6">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/revenge/">Revenge</a>,
+                        
+                        <a href="/topic/atonement/">Atonement</a>,
+                        
+                        <a href="/topic/convents/">Convents</a>,
+                        
+                        <a href="/topic/violence/">Violence</a>,
+                        
+                        <a href="/topic/criminal-justice/">Criminal justice</a>,
+                        
+                        <a href="/topic/violent-crimes/">Violent crimes</a>,
+                        
+                        <a href="/topic/dionysian-mysteries/">Dionysian mysteries</a>,
+                        
+                        <a href="/topic/legal-systems/">Legal systems</a>,
+                        
+                        <a href="/topic/jazz/">Jazz</a>,
+                        
+                        <a href="/topic/libations/">Libations</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.20%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ac605690c-4cee-38b6-97a9-398ffeb18ee6%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.20" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.20" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:f62a715f-f84c-33ac-9b12-4468ab12edec doi:10.2307/j.ctt7zwf30.16 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip4" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.16" id="checkbox4" class="citationItem mts export_citations single_citation_option" /><label for="checkbox4" class="inline-block mrn"><span class="visuallyhidden">
+            
+                “AND THE GREATEST OF THESE”: Toni Morrison, the Bible, Love 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="4" data-id="f62a715f-f84c-33ac-9b12-4468ab12edec" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.16?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            “AND THE GREATEST OF THESE”: Toni Morrison, the Bible, Love<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 119-131) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22KATHERINE+CLAY+BASSARD%22&wc=on&group=none&acc=off&fc=off">KATHERINE CLAY BASSARD</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="f62a715f-f84c-33ac-9b12-4468ab12edec">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/agape/">Agape</a>,
+                        
+                        <a href="/topic/bible/">Bible</a>,
+                        
+                        <a href="/topic/spiritual-love/">Spiritual love</a>,
+                        
+                        <a href="/topic/black-people/">Black people</a>,
+                        
+                        <a href="/topic/love-poetry/">Love poetry</a>,
+                        
+                        <a href="/topic/communities/">Communities</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/religious-poetry/">Religious poetry</a>,
+                        
+                        <a href="/topic/folksongs/">Folksongs</a>,
+                        
+                        <a href="/topic/infants/">Infants</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.16%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Af62a715f-f84c-33ac-9b12-4468ab12edec%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.16" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.16" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:52ec6173-3389-3ff5-a687-ab3e2a38d771 doi:10.2307/j.ctt7zwf30.15 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip5" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.15" id="checkbox5" class="citationItem mts export_citations single_citation_option" /><label for="checkbox5" class="inline-block mrn"><span class="visuallyhidden">
+            
+                FROM EDEN TO PARADISE: A Pilgrimage through Toni Morrison’s Trilogy 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="5" data-id="52ec6173-3389-3ff5-a687-ab3e2a38d771" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.15?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            FROM EDEN TO PARADISE: A Pilgrimage through Toni Morrison’s Trilogy<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 107-118) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22SHIRLEY+A.+STAVE%22&wc=on&group=none&acc=off&fc=off">SHIRLEY A. STAVE</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="52ec6173-3389-3ff5-a687-ab3e2a38d771">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/paradise/">Paradise</a>,
+                        
+                        <a href="/topic/christianity/">Christianity</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/children/">Children</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/pilgrimages/">Pilgrimages</a>,
+                        
+                        <a href="/topic/narrators/">Narrators</a>,
+                        
+                        <a href="/topic/jazz/">Jazz</a>,
+                        
+                        <a href="/topic/men/">Men</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.15%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A52ec6173-3389-3ff5-a687-ab3e2a38d771%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.15" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.15" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:56cd6238-24b7-399d-aa42-562ca386cd64 doi:10.2307/26283479 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip6" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/26283479" id="checkbox6" class="citationItem mts export_citations single_citation_option" /><label for="checkbox6" class="inline-block mrn"><span class="visuallyhidden">
+            
+                TONI MORRISON: A SELECTED BIBLIOGRAPHY
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="6" data-id="56cd6238-24b7-399d-aa42-562ca386cd64" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/26283479?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            TONI MORRISON: A SELECTED BIBLIOGRAPHY
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Debbie+Mix%22&wc=on&group=none&acc=off&fc=off">Debbie Mix</a></div><div class="src"><cite>Modern Fiction Studies</cite>, Vol. 39, No. 3/4, Toni Morrison Double Issue (Fall/Winter 1993), pp. 795-817
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="56cd6238-24b7-399d-aa42-562ca386cd64">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/literary-criticism/">Literary criticism</a>,
+                        
+                        <a href="/topic/folksongs/">Folksongs</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/african-american-literature/">African American literature</a>,
+                        
+                        <a href="/topic/literary-history/">Literary history</a>,
+                        
+                        <a href="/topic/novelists/">Novelists</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/novels/">Novels</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F26283479%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A56cd6238-24b7-399d-aa42-562ca386cd64%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/26283479" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/26283479" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:f85a9bc7-4b3e-3b9a-973f-496a504759cf doi:10.2307/43023537 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip7" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/43023537" id="checkbox7" class="citationItem mts export_citations single_citation_option" /><label for="checkbox7" class="inline-block mrn"><span class="visuallyhidden">
+            
+                CANONIZING TONI MORRISON
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="7" data-id="f85a9bc7-4b3e-3b9a-973f-496a504759cf" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/43023537?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            CANONIZING TONI MORRISON
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Walter+G%C3%B6bel%22&wc=on&group=none&acc=off&fc=off">Walter Göbel</a></div><div class="src"><cite>AAA: Arbeiten aus Anglistik und Amerikanistik</cite>, Vol. 15, No. 2 (1990), pp. 127-137
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="f85a9bc7-4b3e-3b9a-973f-496a504759cf">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/feminism/">Feminism</a>,
+                        
+                        <a href="/topic/literary-criticism/">Literary criticism</a>,
+                        
+                        <a href="/topic/black-people/">Black people</a>,
+                        
+                        <a href="/topic/love/">Love</a>,
+                        
+                        <a href="/topic/poetry/">Poetry</a>,
+                        
+                        <a href="/topic/writers/">Writers</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/trickster-tales/">Trickster tales</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F43023537%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Af85a9bc7-4b3e-3b9a-973f-496a504759cf%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/43023537" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/43023537" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:ecbbd1ae-f1b6-3d60-aace-0ce8422b7acb doi:10.2307/j.ctt7zwf30.9 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip8" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.9" id="checkbox8" class="citationItem mts export_citations single_citation_option" /><label for="checkbox8" class="inline-block mrn"><span class="visuallyhidden">
+            
+                RESURRECTING THE DEAD GIRL: Modernism and the Problem of History in Beloved, Jazz, and Paradise 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="8" data-id="ecbbd1ae-f1b6-3d60-aace-0ce8422b7acb" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.9?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            RESURRECTING THE DEAD GIRL: Modernism and the Problem of History in Beloved, Jazz, and Paradise<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 33-41) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22ANN+HOSTETLER%22&wc=on&group=none&acc=off&fc=off">ANN HOSTETLER</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="ecbbd1ae-f1b6-3d60-aace-0ce8422b7acb">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/modernist-art/">Modernist art</a>,
+                        
+                        <a href="/topic/jazz/">Jazz</a>,
+                        
+                        <a href="/topic/narrative-history/">Narrative history</a>,
+                        
+                        <a href="/topic/narrative-modes/">Narrative modes</a>,
+                        
+                        <a href="/topic/united-states-history/">United States history</a>,
+                        
+                        <a href="/topic/children/">Children</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/literary-characters/">Literary characters</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.9%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Aecbbd1ae-f1b6-3d60-aace-0ce8422b7acb%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.9" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.9" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:c3232f71-8849-33fd-9c59-b2129d06bf53 doi:10.2307/j.ctt7zwf30.26 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip9" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.26" id="checkbox9" class="citationItem mts export_citations single_citation_option" /><label for="checkbox9" class="inline-block mrn"><span class="visuallyhidden">
+            
+                “NEWNESS TREMBLES ME”?: Representations of White Masculinity in Toni Morrison’s A Mercy 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="9" data-id="c3232f71-8849-33fd-9c59-b2129d06bf53" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.26?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            “NEWNESS TREMBLES ME”?: Representations of White Masculinity in Toni Morrison’s A Mercy<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 243-254) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22MAR+GALLEGO-DUR%C3%81N%22&wc=on&group=none&acc=off&fc=off">MAR GALLEGO-DURÁN</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="c3232f71-8849-33fd-9c59-b2129d06bf53">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/masculinity/">Masculinity</a>,
+                        
+                        <a href="/topic/mercy/">Mercy</a>,
+                        
+                        <a href="/topic/men/">Men</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/gothic-fiction/">Gothic fiction</a>,
+                        
+                        <a href="/topic/plantations/">Plantations</a>,
+                        
+                        <a href="/topic/villains/">Villains</a>,
+                        
+                        <a href="/topic/indentured-servitude/">Indentured servitude</a>,
+                        
+                        <a href="/topic/united-states-history/">United States history</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.26%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ac3232f71-8849-33fd-9c59-b2129d06bf53%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.26" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.26" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:21f97107-d7b6-31d2-adb7-e1dc8732316b doi:10.2307/463060 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip10" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/463060" id="checkbox10" class="citationItem mts export_citations single_citation_option" /><label for="checkbox10" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Toni Morrison's Beloved
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="10" data-id="21f97107-d7b6-31d2-adb7-e1dc8732316b" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/463060?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Toni Morrison's Beloved
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Mabel+Khawaja%22&wc=on&group=none&acc=off&fc=off">Mabel Khawaja</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Jon-Christian+Suggs%22&wc=on&group=none&acc=off&fc=off">Jon-Christian Suggs</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22James+Berger%22&wc=on&group=none&acc=off&fc=off">James Berger</a></div><div class="src"><cite>PMLA</cite>, Vol. 112, No. 1, Special Topic: The Teaching of Literature (Jan., 1997), pp. 115-118
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="21f97107-d7b6-31d2-adb7-e1dc8732316b">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/infanticide/">Infanticide</a>,
+                        
+                        <a href="/topic/african-american-studies/">African American studies</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/united-states-history/">United States history</a>,
+                        
+                        <a href="/topic/black-communities/">Black communities</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/racism/">Racism</a>,
+                        
+                        <a href="/topic/temporal-logic/">Temporal logic</a>,
+                        
+                        <a href="/topic/children/">Children</a>,
+                        
+                        <a href="/topic/novelists/">Novelists</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F463060%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A21f97107-d7b6-31d2-adb7-e1dc8732316b%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/463060" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/463060" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:b83ed94a-db5d-38f8-b2ce-52c0eac6a12d doi:10.2307/24351591 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip11" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/24351591" id="checkbox11" class="citationItem mts export_citations single_citation_option" /><label for="checkbox11" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Interview With Toni Morrison
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="11" data-id="b83ed94a-db5d-38f8-b2ce-52c0eac6a12d" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/24351591?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Interview With Toni Morrison
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Christina+DAVIS%22&wc=on&group=none&acc=off&fc=off">Christina DAVIS</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Toni+Morrison%22&wc=on&group=none&acc=off&fc=off">Toni Morrison</a></div><div class="src"><cite>Présence Africaine</cite>, Nouvelle série, No. 145 (1er TRIMESTRE 1988), pp. 141-150
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="b83ed94a-db5d-38f8-b2ce-52c0eac6a12d">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/black-people/">Black people</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/writers/">Writers</a>,
+                        
+                        <a href="/topic/men/">Men</a>,
+                        
+                        <a href="/topic/sound/">Sound</a>,
+                        
+                        <a href="/topic/humans/">Humans</a>,
+                        
+                        <a href="/topic/romantic-literature/">Romantic literature</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F24351591%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ab83ed94a-db5d-38f8-b2ce-52c0eac6a12d%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/24351591" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/24351591" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:af719e1d-9ae0-3518-b514-dbe4cafbc912 doi:10.2307/j.ctt7zwf30.22 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip12" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.22" id="checkbox12" class="citationItem mts export_citations single_citation_option" /><label for="checkbox12" class="inline-block mrn"><span class="visuallyhidden">
+            
+                “A KIND OF RESTORATION”: Psychogeographies of Healing in Toni Morrison’s Home 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="12" data-id="af719e1d-9ae0-3518-b514-dbe4cafbc912" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.22?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            “A KIND OF RESTORATION”: Psychogeographies of Healing in Toni Morrison’s Home<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 194-204) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22VALORIE+THOMAS%22&wc=on&group=none&acc=off&fc=off">VALORIE THOMAS</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="af719e1d-9ae0-3518-b514-dbe4cafbc912">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/healing/">Healing</a>,
+                        
+                        <a href="/topic/tricksters/">Tricksters</a>,
+                        
+                        <a href="/topic/psychogeography/">Psychogeography</a>,
+                        
+                        <a href="/topic/anise/">Anise</a>,
+                        
+                        <a href="/topic/narratives/">Narratives</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/mathematical-vectors/">Mathematical vectors</a>,
+                        
+                        <a href="/topic/narrators/">Narrators</a>,
+                        
+                        <a href="/topic/signification/">Signification</a>,
+                        
+                        <a href="/topic/folk-culture/">Folk culture</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.22%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Aaf719e1d-9ae0-3518-b514-dbe4cafbc912%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.22" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.22" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:062e2f27-9e7e-3c83-858c-0b9fd1ff6d8e doi:10.2307/j.ctt6wpr5d.8 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip13" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt6wpr5d.8" id="checkbox13" class="citationItem mts export_citations single_citation_option" /><label for="checkbox13" class="inline-block mrn"><span class="visuallyhidden">
+            
+                ADJACENCY: Toni Morrison, Beloved (1987) 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="13" data-id="062e2f27-9e7e-3c83-858c-0b9fd1ff6d8e" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt6wpr5d.8?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            ADJACENCY: Toni Morrison, Beloved (1987)<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 119-152) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt6wpr5d?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Seven Modes of Uncertainty</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22C.+Namwali+Serpell%22&wc=on&group=none&acc=off&fc=off">C. Namwali Serpell</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=hup">Harvard University Press</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="062e2f27-9e7e-3c83-858c-0b9fd1ff6d8e">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/moral-judgment/">Moral judgment</a>,
+                        
+                        <a href="/topic/communities/">Communities</a>,
+                        
+                        <a href="/topic/scars/">Scars</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/neighborhoods/">Neighborhoods</a>,
+                        
+                        <a href="/topic/infanticide/">Infanticide</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/discourse-ethics/">Discourse ethics</a>,
+                        
+                        <a href="/topic/community-structure/">Community structure</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt6wpr5d.8%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A062e2f27-9e7e-3c83-858c-0b9fd1ff6d8e%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt6wpr5d.8" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt6wpr5d.8" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:6122303d-157b-3111-99fe-7a7586dca61e doi:10.2307/4065739 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip14" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/4065739" id="checkbox14" class="citationItem mts export_citations single_citation_option" /><label for="checkbox14" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Introducing Toni Morrison
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="14" data-id="6122303d-157b-3111-99fe-7a7586dca61e" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/4065739?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Introducing Toni Morrison
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Jane+Foress+Bennett%22&wc=on&group=none&acc=off&fc=off">Jane Foress Bennett</a></div><div class="src"><cite>Agenda: Empowering Women for Gender Equity</cite>, No. 22, Families in Question (1994), pp. 65-68
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="6122303d-157b-3111-99fe-7a7586dca61e">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/postcolonial-literature/">Postcolonial literature</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/writing/">Writing</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/writers/">Writers</a>,
+                        
+                        <a href="/topic/racism/">Racism</a>,
+                        
+                        <a href="/topic/nineteenth-century-literature/">Nineteenth century literature</a>,
+                        
+                        <a href="/topic/african-literature/">African literature</a>,
+                        
+                        <a href="/topic/african-american-literature/">African American literature</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F4065739%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A6122303d-157b-3111-99fe-7a7586dca61e%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/4065739" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/4065739" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:e85d0825-15d3-36f1-a109-52c1caf18c5f doi:10.2979/transition.124.1.27 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><img src="//www.jstor.org/assets/search_20180216T1648/build/images/access-icons/access_free.gif" aria-hidden="true" alt="" class="accessIcon notResponsive"/>&nbsp;
+            
+        
+
+        
+        <input type="checkbox" name="doi" value="10.2979/transition.124.1.27" id="checkbox15" class="citationItem mts export_citations single_citation_option" /><label for="checkbox15" class="inline-block mrn"><span class="visuallyhidden">
+            
+                On Meeting Toni Morrison
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section userHasAccess" data-rankinpage="15" data-id="e85d0825-15d3-36f1-a109-52c1caf18c5f" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2979/transition.124.1.27?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="Yes" data-mboxname="search-journal-click,search-content-access">
+            On Meeting Toni Morrison
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Sarah+Ladipo+Manyika%22&wc=on&group=none&acc=off&fc=off">Sarah Ladipo Manyika</a></div><div class="src"><cite>Transition</cite>, No. 124, Writing Black Canadas (2017), pp. 138-147
+        </div><span class="mts inline-block"><span class="badge badge-border 
+    dark-green-color
+">
+    FREE
+</span></span><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="e85d0825-15d3-36f1-a109-52c1caf18c5f">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/writing/">Writing</a>,
+                        
+                        <a href="/topic/literature/">Literature</a>,
+                        
+                        <a href="/topic/sons/">Sons</a>,
+                        
+                        <a href="/topic/slavery/">Slavery</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/united-states-history/">United States history</a>,
+                        
+                        <a href="/topic/parables/">Parables</a>,
+                        
+                        <a href="/topic/wisdom/">Wisdom</a>,
+                        
+                        <a href="/topic/theater/">Theater</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><a class="pdfLink button expanded"
+                                    href="/stable/pdf/10.2979/transition.124.1.27.pdf"
+                                    data-resulttype="Journal"
+                                    target="_blank"
+                                    data-isbn=""
+                                    data-doi="10.2979/transition.124.1.27"
+                                    data-sc="but click:pdf download">
+                                    Download PDF
+                                </a><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2979%252Ftransition.124.1.27%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ae85d0825-15d3-36f1-a109-52c1caf18c5f%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2979/transition.124.1.27" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2979/transition.124.1.27" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:b33989ff-c526-3bde-b08f-7b45d0af69d6 doi:10.2307/j.ctt7zwf30.17 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip16" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.17" id="checkbox16" class="citationItem mts export_citations single_citation_option" /><label for="checkbox16" class="inline-block mrn"><span class="visuallyhidden">
+            
+                PALIMPSEST: Reading John Winthrop through the Morrison Trilogy 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="16" data-id="b33989ff-c526-3bde-b08f-7b45d0af69d6" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.17?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            PALIMPSEST: Reading John Winthrop through the Morrison Trilogy<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 132-143) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22JUSTINE+TALLY%22&wc=on&group=none&acc=off&fc=off">JUSTINE TALLY</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="b33989ff-c526-3bde-b08f-7b45d0af69d6">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/mercy/">Mercy</a>,
+                        
+                        <a href="/topic/love/">Love</a>,
+                        
+                        <a href="/topic/jazz/">Jazz</a>,
+                        
+                        <a href="/topic/bones/">Bones</a>,
+                        
+                        <a href="/topic/convents/">Convents</a>,
+                        
+                        <a href="/topic/soul/">Soul</a>,
+                        
+                        <a href="/topic/spiritual-love/">Spiritual love</a>,
+                        
+                        <a href="/topic/natural-law/">Natural law</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.17%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ab33989ff-c526-3bde-b08f-7b45d0af69d6%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.17" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.17" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:174efd5b-3692-37f5-b4a0-31f34bfffad2 doi:10.2307/3042074 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip17" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/3042074" id="checkbox17" class="citationItem mts export_citations single_citation_option" /><label for="checkbox17" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Circularity in Toni Morrison's Beloved
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="17" data-id="174efd5b-3692-37f5-b4a0-31f34bfffad2" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/3042074?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Circularity in Toni Morrison's Beloved
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Philip+Page%22&wc=on&group=none&acc=off&fc=off">Philip Page</a></div><div class="src"><cite>African American Review</cite>, Vol. 26, No. 1, Women Writers Issue (Spring, 1992), pp. 31-39
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="174efd5b-3692-37f5-b4a0-31f34bfffad2">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/circles/">Circles</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/communities/">Communities</a>,
+                        
+                        <a href="/topic/narratives/">Narratives</a>,
+                        
+                        <a href="/topic/memory/">Memory</a>,
+                        
+                        <a href="/topic/folktales/">Folktales</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/narrators/">Narrators</a>,
+                        
+                        <a href="/topic/literary-characters/">Literary characters</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F3042074%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A174efd5b-3692-37f5-b4a0-31f34bfffad2%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/3042074" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/3042074" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:06b6b6bd-84ea-3cad-84ef-7fc1feafd6e7 doi:10.2307/j.ctt7zwf30.10 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip18" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.10" id="checkbox18" class="citationItem mts export_citations single_citation_option" /><label for="checkbox18" class="inline-block mrn"><span class="visuallyhidden">
+            
+                TO MAKE A HUMANIST BLACK: Toni Wofford’s Howard Years 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="18" data-id="06b6b6bd-84ea-3cad-84ef-7fc1feafd6e7" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.10?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            TO MAKE A HUMANIST BLACK: Toni Wofford’s Howard Years<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 42-50) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22DANA+A.+WILLIAMS%22&wc=on&group=none&acc=off&fc=off">DANA A. WILLIAMS</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="06b6b6bd-84ea-3cad-84ef-7fc1feafd6e7">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/theater/">Theater</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/humanism/">Humanism</a>,
+                        
+                        <a href="/topic/butchering/">Butchering</a>,
+                        
+                        <a href="/topic/poetry/">Poetry</a>,
+                        
+                        <a href="/topic/african-american-literature/">African American literature</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/state-colleges/">State colleges</a>,
+                        
+                        <a href="/topic/authors/">Authors</a>,
+                        
+                        <a href="/topic/playbills/">Playbills</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.10%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A06b6b6bd-84ea-3cad-84ef-7fc1feafd6e7%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.10" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.10" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:40e99c4e-53ac-3415-a986-8d3dabc221b8 doi:10.2307/26283459 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip19" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/26283459" id="checkbox19" class="citationItem mts export_citations single_citation_option" /><label for="checkbox19" class="inline-block mrn"><span class="visuallyhidden">
+            
+                INTRODUCTION: CANONIZING TONI MORRISON
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="19" data-id="40e99c4e-53ac-3415-a986-8d3dabc221b8" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/26283459?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            INTRODUCTION: CANONIZING TONI MORRISON
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Nancy+J.+Peterson%22&wc=on&group=none&acc=off&fc=off">Nancy J. Peterson</a></div><div class="src"><cite>Modern Fiction Studies</cite>, Vol. 39, No. 3/4, Toni Morrison Double Issue (Fall/Winter 1993), pp. 461-479
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="40e99c4e-53ac-3415-a986-8d3dabc221b8">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/literary-criticism/">Literary criticism</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/slavery/">Slavery</a>,
+                        
+                        <a href="/topic/black-communities/">Black communities</a>,
+                        
+                        <a href="/topic/novelists/">Novelists</a>,
+                        
+                        <a href="/topic/african-american-literature/">African American literature</a>,
+                        
+                        <a href="/topic/literary-postmodernism/">Literary postmodernism</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F26283459%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A40e99c4e-53ac-3415-a986-8d3dabc221b8%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/26283459" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/26283459" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:b30f2f87-6cef-3556-9f8f-909bab21788a doi:10.2307/j.ctt7zwf30.27 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip20" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.27" id="checkbox20" class="citationItem mts export_citations single_citation_option" /><label for="checkbox20" class="inline-block mrn"><span class="visuallyhidden">
+            
+                THE SOUND OF CHANGE: A Musical Transit through the Wounded Modernity of Desdemona 
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="20" data-id="b30f2f87-6cef-3556-9f8f-909bab21788a" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.27?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            THE SOUND OF CHANGE: A Musical Transit through the Wounded Modernity of Desdemona<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 255-268) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22LENORE+KITTS%22&wc=on&group=none&acc=off&fc=off">LENORE KITTS</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="b30f2f87-6cef-3556-9f8f-909bab21788a">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/singers/">Singers</a>,
+                        
+                        <a href="/topic/musical-rhythm/">Musical rhythm</a>,
+                        
+                        <a href="/topic/theater/">Theater</a>,
+                        
+                        <a href="/topic/womens-songs/">Womens songs</a>,
+                        
+                        <a href="/topic/african-music/">African music</a>,
+                        
+                        <a href="/topic/colonialism/">Colonialism</a>,
+                        
+                        <a href="/topic/british-literature/">British literature</a>,
+                        
+                        <a href="/topic/music-instrumentation/">Music instrumentation</a>,
+                        
+                        <a href="/topic/musical-motives/">Musical motives</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.27%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ab30f2f87-6cef-3556-9f8f-909bab21788a%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.27" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.27" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:d10376d3-afcf-39ab-b58c-4f4f4d584927 doi:10.2307/j.ctt7zwf30.12 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip21" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/j.ctt7zwf30.12" id="checkbox21" class="citationItem mts export_citations single_citation_option" /><label for="checkbox21" class="inline-block mrn"><span class="visuallyhidden">
+            
+                THE PURSUIT OF MEMORY
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="21" data-id="d10376d3-afcf-39ab-b58c-4f4f4d584927" data-resulttype="chapter"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Book Chapter
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/j.ctt7zwf30.12?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="chapter" data-access="No" data-mboxname="search-chapter-click,search-content-access">
+        
+            THE PURSUIT OF MEMORY<!--
+        
+    --></a><span class="nonLinkText normal"> (pp. 66-79) </span></h3><div><span class="nonLinkText normal">From:</span>&nbsp;<a href="/stable/10.2307/j.ctt7zwf30?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Book" data-access="No" data-mboxname="search-book-click,search-content-access" class="italic">Toni Morrison: Memory and Meaning</a></div></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22CLAUDINE+RAYNAUD%22&wc=on&group=none&acc=off&fc=off">CLAUDINE RAYNAUD</a></div><div class="src-book"><a href="/action/showPublisher?publisherCode=upressms">University Press of Mississippi</a>
+    
+  
+    
+    
+        (2014)
+    
+
+</div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="d10376d3-afcf-39ab-b58c-4f4f4d584927">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/memory/">Memory</a>,
+                        
+                        <a href="/topic/corn/">Corn</a>,
+                        
+                        <a href="/topic/children/">Children</a>,
+                        
+                        <a href="/topic/sexual-intercourse/">Sexual intercourse</a>,
+                        
+                        <a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/written-narratives/">Written narratives</a>,
+                        
+                        <a href="/topic/vegetable-gardens/">Vegetable gardens</a>,
+                        
+                        <a href="/topic/colors/">Colors</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252Fj.ctt7zwf30.12%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ad10376d3-afcf-39ab-b58c-4f4f4d584927%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/j.ctt7zwf30.12" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/j.ctt7zwf30.12" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:b6375054-d5a1-331c-9cb2-baf10e47c71e doi:10.2307/27666617 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip22" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/27666617" id="checkbox22" class="citationItem mts export_citations single_citation_option" /><label for="checkbox22" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Slavery and Motherhood in Toni Morrison's "Beloved"
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="22" data-id="b6375054-d5a1-331c-9cb2-baf10e47c71e" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/27666617?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Slavery and Motherhood in Toni Morrison's "Beloved"
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Terry+Paul+Caesar%22&wc=on&group=none&acc=off&fc=off">Terry Paul Caesar</a></div><div class="src"><cite>Revista de Letras</cite>, Vol. 34 (1994), pp. 111-120
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="b6375054-d5a1-331c-9cb2-baf10e47c71e">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/mothers/">Mothers</a>,
+                        
+                        <a href="/topic/daughters/">Daughters</a>,
+                        
+                        <a href="/topic/motherhood/">Motherhood</a>,
+                        
+                        <a href="/topic/slaves/">Slaves</a>,
+                        
+                        <a href="/topic/infanticide/">Infanticide</a>,
+                        
+                        <a href="/topic/narratives/">Narratives</a>,
+                        
+                        <a href="/topic/infants/">Infants</a>,
+                        
+                        <a href="/topic/novels/">Novels</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F27666617%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ab6375054-d5a1-331c-9cb2-baf10e47c71e%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/27666617" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/27666617" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:e89157b3-1cde-3725-8137-3d422e1a62a2 doi:10.2307/41054752 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip23" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/41054752" id="checkbox23" class="citationItem mts export_citations single_citation_option" /><label for="checkbox23" class="inline-block mrn"><span class="visuallyhidden">
+            
+                AN INTERVIEW WITH TONI MORRISON, AND A COMMENTARY ABOUT HER WORK
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="23" data-id="e89157b3-1cde-3725-8137-3d422e1a62a2" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/41054752?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            AN INTERVIEW WITH TONI MORRISON, AND A COMMENTARY ABOUT HER WORK
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Mar%C3%ADa+Fr%C3%ADas%22&wc=on&group=none&acc=off&fc=off">María Frías</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Wayne+Pond%22&wc=on&group=none&acc=off&fc=off">Wayne Pond</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Trudier+Harris%22&wc=on&group=none&acc=off&fc=off">Trudier Harris</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Toni+Morrison%22&wc=on&group=none&acc=off&fc=off">Toni Morrison</a></div><div class="src"><cite>Atlantis</cite>, Vol. 16, No. 1/2 (noviembre 1994), pp. 273-283
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="e89157b3-1cde-3725-8137-3d422e1a62a2">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/black-people/">Black people</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/african-american-culture/">African American culture</a>,
+                        
+                        <a href="/topic/novels/">Novels</a>,
+                        
+                        <a href="/topic/slavery/">Slavery</a>,
+                        
+                        <a href="/topic/film-criticism/">Film criticism</a>,
+                        
+                        <a href="/topic/writing/">Writing</a>,
+                        
+                        <a href="/topic/men/">Men</a>,
+                        
+                        <a href="/topic/racism/">Racism</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F41054752%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ae89157b3-1cde-3725-8137-3d422e1a62a2%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/41054752" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/41054752" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:5f77fb07-e9aa-3132-b1f2-a807c0d2ef50 doi:10.2307/24352134 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip24" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/24352134" id="checkbox24" class="citationItem mts export_citations single_citation_option" /><label for="checkbox24" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Lire "Sula" de Toni Morrison
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="24" data-id="5f77fb07-e9aa-3132-b1f2-a807c0d2ef50" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/24352134?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Lire "Sula" de Toni Morrison
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Andr%C3%A9e-Marie+DIAGNE%22&wc=on&group=none&acc=off&fc=off">Andrée-Marie DIAGNE</a></div><div class="src"><cite>Présence Africaine</cite>, Nouvelle série, No. 159 (1er SEMESTRE 1999), pp. 187-196
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="5f77fb07-e9aa-3132-b1f2-a807c0d2ef50">
+    Loading additional content...
+</div></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F24352134%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253A5f77fb07-e9aa-3132-b1f2-a807c0d2ef50%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/24352134" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/24352134" target="_blank">Cite this Item</a></div></div></div></div></div></li><li class="row result-item"><!-- results markup common to all result items --><!-- id:c943d90d-0038-3721-832e-3de64def8320 doi:10.2307/25090662 --><div class="small-12 columns mtl mbn media-object"><div class="media-img media-object-section"><span data-tooltip aria-haspopup="true" id="tooltip25" title="Citation access only" aria-label="You currently only have access to this item&apos;s citation information. Try visiting this item to see available access options." class="icon-times-circle has-tip txtm mrs"></span><input type="checkbox" name="doi" value="10.2307/25090662" id="checkbox25" class="citationItem mts export_citations single_citation_option" /><label for="checkbox25" class="inline-block mrn"><span class="visuallyhidden">
+            
+                Interview with Toni Morrison
+            
+            </span></label></div><div class="result-item-metadata media-body media-object-section main-section" data-rankinpage="25" data-id="c943d90d-0038-3721-832e-3de64def8320" data-resulttype="journal"><div class="row"><div class="small-12 large-8 xlarge-9 columns mbl"><div class="badge">
+                        Journal Article
+                    </div><div class="title"><h3 class="medium-heading"><a href="/stable/10.2307/25090662?Search=yes&amp;resultItemClick=true&amp;searchText=&quot;Toni Morrison&quot;&amp;searchText=AND&amp;searchText=&quot;Beloved&quot;&amp;searchUri=%2Faction%2FdoBasicSearch%3FQuery%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone%26amp%3Bacc%3Doff"  data-itemtype="Article" data-access="No" data-mboxname="search-journal-click,search-content-access">
+            Interview with Toni Morrison
+            </a></h3></div><div class="contrib"><a href="/action/doBasicSearch?si=1&Query=au%3A%22Cecil+Brown%22&wc=on&group=none&acc=off&fc=off">Cecil Brown</a>,
+    
+        <a href="/action/doBasicSearch?si=1&Query=au%3A%22Toni+Morrison%22&wc=on&group=none&acc=off&fc=off">Toni Morrison</a></div><div class="src"><cite>The Massachusetts Review</cite>, Vol. 36, No. 3 (Autumn, 1995), pp. 455-473
+        </div><div class="snippets mlm hide"><div class="evaluation-pane mtl inview no-js-hide" data-id="c943d90d-0038-3721-832e-3de64def8320">
+    Loading additional content...
+</div></div><div class="topic-evaluation-pane mtm"><strong>Topics: </strong><a href="/topic/black-people/">Black people</a>,
+                        
+                        <a href="/topic/men/">Men</a>,
+                        
+                        <a href="/topic/white-people/">White people</a>,
+                        
+                        <a href="/topic/book-publishing/">Book publishing</a>,
+                        
+                        <a href="/topic/writers/">Writers</a>,
+                        
+                        <a href="/topic/literary-criticism/">Literary criticism</a>,
+                        
+                        <a href="/topic/african-americans/">African Americans</a>,
+                        
+                        <a href="/topic/writing/">Writing</a>,
+                        
+                        <a href="/topic/nicknames/">Nicknames</a></div><div class="sass-debug-fields"></div></div><div class="small-7 medium-4 large-4 xlarge-3 columns end"><div class="action-buttons"><button disabled class="button expanded secondary"><span class="visuallyhidden">You don't have access to </span>Download PDF</button><a href="/register/mylists?redirectUri=/action/doBasicSearch%3Fopen_mylists%3D10.2307%252F25090662%26Query%3D%2522Toni%2BMorrison%2522%2BAND%2B%2522Beloved%2522%2BOR%2Bid%253Ac943d90d-0038-3721-832e-3de64def8320%26acc%3Doff%26wc%3Don%26fc%3Doff%26group%3Dnone"
+        class="no-js-hide mylists-add showListAndOutlineCTA button secondary expanded">
+        Add to My Lists
+    </a><a href="/citation/info/10.2307/25090662" class="cite-this-item button expanded secondary" data-open="citation-tools" data-reveal-id="citation-tools" data-doi="10.2307/25090662" target="_blank">Cite this Item</a></div></div></div></div></div></li></ol><div class="small-12 large-5 columns prn right mbl"><ul class="pagination simple mvn right" id="pagination"><li><span class="show-for-sr">page</span><strong>1</strong> of 113</li><li class="pagination-next"><a id="next-page" href="/action/doBasicSearch?page=2&Query=%22Toni+Morrison%22+AND+%22Beloved%22&acc=off&wc=on&fc=off&group=none">Next<span class="show-for-sr">page</span></a></li></ul></div><input type="hidden" name="noDoi" value="yesDoi"/><input type="hidden" name="redirectUri" value="/action/doBasicSearch?Query=%22Toni+Morrison%22+AND+%22Beloved%22&amp;amp;wc=on&amp;amp;fc=off&amp;amp;group=none&amp;amp;acc=off&amp;confirm=add" /><input type="hidden" name="sbq" value="&quot;Toni Morrison&quot; AND &quot;Beloved&quot;"/><input type="hidden" name="hp" value="25"/><input type="hidden" name="la" value="None"/><input type="hidden" name="wc" value="on"/><input type="hidden" name="fc" value="off"/><input type="hidden" name="acc" value="off"/><input type="hidden" name="vf" value="all"/><input type="hidden" name="bk" value="off"/><input type="hidden" name="pm" value="off"/><input type="hidden" name="jo" value="off"/><input type="hidden" name="ar" value="off"/><input type="hidden" name="re" value="off"/><input type="hidden" name="ms" value="off"/><input type="hidden" name="mxpg" value=""/><input type="hidden" name="dpg" value=""/><input type="hidden" name="si" value="0"/><input type="hidden" name="gw" value="jtx"/><input type="hidden" name="Query" value="&quot;Toni Morrison&quot; AND &quot;Beloved&quot;"/></form></div></div></div></div></div></div></div><footer class="footer"><div class="row"><div class="columns"><h2 class="xlarge-heading">Explore JSTOR</h2></div></div><div class="row"><div class="small-12 medium-5 large-3 columns"><div class="row"><div class="small-7 columns"><ul class="no-bullet mbn"><li><a href="/subjects" data-qa="ftr-by-subj">By Subject</a></li><li><a href="/action/showJournals?browseType=title" data-qa="ftr-by-title">By Title</a></li><li><a href="/publishers" data-qa="ftr-by-pub">By Publisher</a></li><li><a href="/action/showAdvancedSearch" data-qa="ftr-adv-search">Advanced Search</a></li><li><a href="/dfr" data-qa="ftr-dfr" data-sc="text link: dfr footer">Data for Research</a></li></ul></div><div class="small-5 columns end"><ul class="no-bullet"><li><a href="https://support.jstor.org/hc/en-us/articles/115003417088-Access-How-to-Login-as-a-Student" target="_blank" title="This link opens in a new window" data-qa="ftr-get-access">Get Access</a></li><li><a href="http://support.jstor.org" target="_blank" title="This link opens in a new window" data-qa="ftr-support">Support</a></li></ul></div></div></div><div class="small-12 medium-7 large-4 columns vertical-rule-footer"><div class="row"><div class="small-7 columns"><ul class="no-bullet responsive-separator"><li><a href="http://about.jstor.org" target="_blank" title="This link opens in a new window" data-qa="ftr-about-jstor">About JSTOR</a></li><li><a href="http://about.jstor.org/mission-history/" target="_blank" title="This link opens in a new window" data-qa="ftr-mission-and-history">Mission and History</a></li><li><a href="http://about.jstor.org/whats-in-jstor/" target="_blank" title="This link opens in a new window" data-qa="ftr-whats-in-jstor">What's in JSTOR</a></li><li><a href="http://about.jstor.org/get-jstor/" target="_blank" title="This link opens in a new window" data-qa="ftr-get-jstor">Get JSTOR</a></li><li><a href="http://about.jstor.org/news/" target="_blank" title="This link opens in a new window" data-qa="ftr-news">News</a></li><li><a href="http://about.jstor.org/events/" target="_blank" title="This link opens in a new window" data-qa="ftr-events">Events</a></li></ul></div><div class="small-5 columns end"><ul class="no-bullet"><li><a href="http://labs.jstor.org/" target="_blank" title="This link opens in a new window" data-qa="ftr-labs">JSTOR Labs</a></li><li><a href="https://daily.jstor.org/" target="_blank" title="This link opens in a new window" data-qa="ftr-daily">JSTOR Daily</a></li><li><a href="https://www.ithaka.org/careers/" target="_blank" title="This link opens in a new window" data-qa="ftr-careers">Careers</a></li><li><a href="/contact-us/" target="_blank" title="This link opens in a new window" data-qa="ftr-contact-us">Contact Us</a></li></ul></div></div></div><div class="small-12 large-2 columns"><ul class="no-bullet"><li><a href="/librarians" target="_blank" title="This link opens in a new window" class="button secondary" data-qa="ftr-for-librarians">For Librarians</a></li><li><a href="http://about.jstor.org/publishers/" target="_blank" title="This link opens in a new window" class="button secondary" data-qa="ftr-for-pub">For Publishers</a></li></ul></div><div class="small-12 large-3 columns small-text"><ul class="menu simple no-bullet no-underline"><li><a href="https://twitter.com/JSTOR" target="_blank" class="icon-twitter twitter-styling icon-large" aria-label="Twitter - This link opens in a new window"></a></li><li><a href="https://www.facebook.com/JSTOR.org" target="_blank" class="icon-facebook-official facebook-styling icon-large" aria-label="Facebook - This link opens in a new window"></a></li></ul><p class="small-text" data-qa="ftr-mission-statement">JSTOR is part of ITHAKA, a not-for-profit organization helping the academic community use digital technologies to preserve the scholarly record and to advance research and teaching in sustainable ways.</p><p class="small-text" data-qa="ftr-copyright-statement">&copy;2000-2018 ITHAKA. All Rights Reserved. JSTOR&reg;, the JSTOR logo, JPASS&reg;, and ITHAKA&reg; are registered trademarks of ITHAKA. Artstor&reg; is a registered trademark of Artstor Inc. ITHAKA is an authorized agent of Artstor Inc.</p></div></div><div class="row"><div class="small-12 medium-6 large-8 columns"><ul class="menu simple no-bullet responsive-links"><li><a class="pln" href="http://about.jstor.org/terms/" target="_blank" title="This link opens in a new window" data-qa="ftr-terms-and-conditions">Terms & Conditions of Use</a></li><li><a href="http://about.jstor.org/privacy/" target="_blank" title="This link opens in a new window" data-qa="ftr-privacy-policy">Privacy Policy</a></li><li><a href="http://about.jstor.org/use-of-cookies/" target="_blank" title="This link opens in a new window" data-qa="ftr-use-of-cookies">Use of Cookies</a></li><li><a class="prn" href="http://about.jstor.org/accessibility/" target="_blank" title="This link opens in a new window" data-qa="ftr-accessibility">Accessibility</a></li></ul></div><div class="small-12 medium-6 large-4 columns no-js-hide"><div id="google_translate_element" aria-hidden="true"></div></div></div></footer><div id="citation-tools" class="reveal-modal reveal medium" data-reveal data-icon="quote-right" data-circle-color="alert"
+     aria-labelledby="citation-tools-title" aria-live="polite" aria-relevant="additions" aria-atomic="true"
+     aria-busy="false" aria-hidden="true" role="dialog"><header><h1 id="citation-tools-title" align="center">Cite This Item</h1></header><div id="citationBody" class="reveal-body"><div class="mbxl"><h2 class="txtl mbm">Copy Citation</h2><div class="copy-citation-mla notranslate"></div><div class="copy-citation-apa notranslate"></div><div class="copy-citation-chicago notranslate"></div></div><div class="mbxl"><h2 class="txtl mbxs">Export Citation</h2><div class="export-citation-refworks mbxs"><a href="/citation/refworks/" target="_blank" data-sc="text link:citation refworks">Export to RefWorks</a></div><div class="export-citation-easybib mbxs"><a href="/citation/easybib/" target="_blank" data-sc="text link:citation easybib">Export to EasyBib</a></div><div class="export-citation-ris mbxs"><a href="/citation/ris/" data-sc="text link:citation ris">Export a RIS file</a> (For EndNote, ProCite, Reference Manager, Zotero…)
+            </div><div class="export-citation-text mbxs"><a href="/citation/text/" data-sc="text link: citation text">Export a Text file</a> (For BibTex)
+            </div></div><div class="citation-note"><strong>Note:</strong> Always review your references and make any necessary corrections before using. Pay attention to names, capitalization, and dates.
+        </div></div><a href="#" class="close-reveal-modal close-button" data-close aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a></div><script id="tpl-citation_item" type="text/x-handlebars-template"><div class="mbm mlm"><strong class="mbs">{{ label }}</strong><div class="clearfix"><div id="{{ label }}_text" class="{{ class_name }} left pas brdra citation-copy">{{ citation }}</div><button data-tooltip data-options="disable_for_touch:true" data-tracking="{{ label }}" data-selector="clipboard-tip-{{ label }}" title="Copy to Clipboard" aria-label="Copy {{ label }} format to clipboard" data-clipboard-target="#{{ label }}_text" class="button button-img copy tiny mhs" type="button">Copy</button></div></div></script><div id="mylists" class="reveal-modal reveal medium" data-reveal
+     data-icon="plus" data-circle-color="primary" aria-labelledby="mylists_title"
+     aria-hidden="true"  aria-live="polite" aria-atomic="true"
+     aria-relevant="additions"role="dialog"><header><h1 id="mylists_title">Loading</h1></header><div id="mylists_body" class="reveal-body"><p>Processing your request...</p></div><a href="#" class="close-reveal-modal close-button" data-close aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a></div><div id="terms-and-conditions" class="reveal-modal reveal medium" data-reveal
+     data-icon="arrow-down" data-circle-color="dark-green" aria-labelledby="terms-and-conditions_title"
+     aria-hidden="true"  aria-live="polite" aria-atomic="true"
+     aria-relevant="additions"role="dialog"><header><h1 id="terms-and-conditions_title">Loading</h1></header><div id="terms-and-conditions_body" class="reveal-body"><p>Processing your request...</p></div><a href="#" class="close-reveal-modal close-button" data-close aria-label="Close Overlay">&#215; <span class="visuallyhidden">Close Overlay</span></a></div><script id="tpl-my-lists-register" type="text/x-handlebars-template"><div class="row pal"><div class="small-12 large-6 columns"><div class="row"><div class="large-heading">Organize Your Work</div><p class="pln pbn">Make lists and save your research.</p></div><div class="row"><a id="reg_uri" href="{{{ reg_url }}}" class="button mtl">Register</a></div><div class="row"><p class="pln pbn">
+                Already have an account? <a id="login_uri" href="{{{ login_url }}}" class="mvl">Login</a></p></div></div><div class="small-12 large-6 columns"><div class="row"><div class="large-heading">How does it work?</div><ol><li class="mvm">Register for a free MyJSTOR account.</li><li class="mvm">Add articles and eBook chapters to your lists.</li><li class="mvm">Get citations in MLA, APA, and Chicago formats.</li></ol></div></div></div></script><script id="tpl-evaluationPane" type="text/x-handlebars-template"><dl><dd class="snippet"></dd>
+    {{#if snippets.0.text}}<div class="snippetText">...{{{ snippets.0.text }}}...</div>{{/if}}
+</dl></script><script id="tpl-citation_item" type="text/x-handlebars-template"><div class="mbm mlm"><strong class="mbs">{{ label }}</strong><div class="clearfix"><div id="{{ label }}_text" class="{{ class_name }} left pas brdra citation-copy">{{ citation }}</div><button data-tooltip data-options="disable_for_touch:true" data-tracking="{{ label }}" data-selector="clipboard-tip-{{ label }}" title="Copy to Clipboard" aria-label="Copy {{ label }} format to clipboard" data-clipboard-target="#{{ label }}_text" class="button button-img copy tiny mhs" type="button">Copy</button></div></div></script><script id="tpl-image-result-modal" type="text/x-handlebars-template"><div class="txtc"><div class="modal-circle"><div class="circle primary-background"><i class="fa fa-picture-o"></i></div></div><h1>{{{ image.title }}}</h1></div><div class="row"><div class="small-12 xlarge-7 columns image-modal__image-and-actions">
+            {{#with image.metadata}}
+            <img class="mbl" src="{{ ../image.viewable_url }}" alt="{{ Title.[0] }}{{#if Material}} ({{ Material }}){{/if}}, by {{ Creator }}" />
+            {{/with}}
+            <div class="mbm"><a class="button mbs" href="{{ image.viewable_url }}" download data-sc="but click: artstor download">Download image</a><!--
+                -->&nbsp;<!--
+                --><a class="button secondary mbs" href="//library.artstor.org/#/asset/{{ image.object_id }}" target="_blank" title="This link opens in a new window" data-sc="text link: view image in artstor">Explore the image in Artstor</a></div></div><div class="small-12 xlarge-5 columns">
+            {{#each image.metadata}}
+            <div class="mbm"><div class="bold">{{ @key }}</div>
+                {{#each this }}
+                <div>{{{ this }}}</div>
+                {{/each}}
+            </div>
+            {{/each}}
+        </div></div><hr/><span class="small-text">
+        The Artstor Digital Library is an image database featuring an unparalleled range of images from some of the
+        world's leading museums, photo archives, scholars, and artists in one easily-navigated repository.
+    </span><button class="close-button" data-close aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button></script><script type="text/javascript" src="//www.jstor.org/assets/global_20180214T1713/build/global/js/global.min.js"></script><script src="//www.jstor.org/assets/search_20180216T1648/build/search/js/search-results.min.js" type="text/javascript"></script><script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'en',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+            autoDisplay: false
+        }, 'google_translate_element');
+
+        let googleTranslateWindow = document.getElementsByClassName("goog-te-menu-frame")[0],
+            googleTranslateButton = document.getElementsByClassName("goog-te-gadget-simple")[0];
+        googleTranslateWindow.contentDocument.addEventListener("keydown", function(event) {
+            if (event.keyCode === 27) {
+                document.activeElement.blur();
+                googleTranslateButton.focus();
+                googleTranslateWindow.style.display = 'none';
+            }
+        });
+    }
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script><script>
+                    var _$tarQ = _$tarQ || [];
+                    (function (){
+                        var stars = document.createElement('script'),
+                            s = document.getElementsByTagName('script')[0];
+                        stars.async= true;
+                        stars.type = 'text/javascript';
+                        stars.src = "//receiver.star.ith.semcs.net/star-aws.js";
+                        s.parentNode.insertBefore(stars, s);
+                    })();
+                </script><div id="env_info" class="hide" data-debug="False"></div><!-- DTM Footer code --><script type="text/javascript">
+                //To prevent JS errors when disabled
+                if(typeof _satellite !== "undefined"){
+                    _satellite.pageBottom();
+                }
+            </script><script>
+    var logPerimeterXLoadingErrors = function() {
+        if (window.perimeterXLoadingErrors) {
+            for (var property in window.perimeterXLoadingErrors) {
+                if (window.perimeterXLoadingErrors.hasOwnProperty(property)) {
+                    jslogger.log_event("error", "perimeterx." + property + ".loadingError", {errorType: window.perimeterXLoadingErrors[property]});
+                }
+            }
+        }
+    }
+</script></body></html>
