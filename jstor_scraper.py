@@ -16,7 +16,11 @@
 
 import functions
 import requests
-	
+
+import requests
+
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+
 search_terms = ['"Toni Morrison" AND "Beloved"']
 urls = functions.search_terms_to_urls(search_terms)
 data_file = "output.csv"
@@ -27,6 +31,6 @@ start_number = 0;
 n = int(start_number)
 for x in urls:
 	n += 1
-	rawhtml = requests.get(x)
+	rawhtml = requests.get(x, headers=headers)
 	print(rawhtml.text)
 	get_data_from_text(rawhtml.text, data_file,n,x)
